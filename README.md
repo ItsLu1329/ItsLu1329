@@ -1,6 +1,9 @@
 Hai, i'm Lu
 
-i code in python and rarely java because i dont particularly like it 😒
+Im fluent in Pyhon and HTMTL(, CSS, and Javascript)
+have tampered with MySQL, C++, and Java
+and am learning GDScript With Godot :)
+
 
 <!---
 ItsLu1329/ItsLu1329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
